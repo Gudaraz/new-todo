@@ -12,7 +12,7 @@ This web application helps you stay organized by managing your daily tasks in a 
 
 ## Screenshot
 
-[todo.png]  
+[todolist.png]  
 
 ## How to Use
 
