@@ -1,4 +1,4 @@
-# new-todo
+
 # Daily Task Manager
 
 This web application helps you stay organized by managing your daily tasks in a simple and effective way.
@@ -12,7 +12,9 @@ This web application helps you stay organized by managing your daily tasks in a 
 
 ## Screenshot
 
-[Imagen of the Daily Task Manager application screenshot](todo.jpg)  ## How to Use
+[todo.png]  
+
+## How to Use
 
 1. Clone or download the repository.
 2. Open the `index.html` file in your web browser.
